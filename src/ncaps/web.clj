@@ -9,7 +9,7 @@
 (defn splash []
   {:status 200
    :headers {"Content-Type" "text/plain"}
-   :body "New NCAPS training site"})
+   :body "New NCAPS training site - test"})
 
 (defroutes app
   (GET "/" []
