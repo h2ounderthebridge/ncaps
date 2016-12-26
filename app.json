@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: Clojure",
-  "description": "A barebones Clojure app, which can easily be deployed to Heroku.",
+  "name": "ncaps",
+  "description": "A better ncaps training website",
   "image": "heroku/clojure",
   "addons": [ "heroku-postgresql" ]
 }
